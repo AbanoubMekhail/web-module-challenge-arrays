@@ -47,7 +47,7 @@ Use the copy function below to do the following:
 
 
 function copy(array){
-  return [...originalFlavors];
+  return [...array];
 }
 console.log('task 1;', copy(originalFlavors));
 
